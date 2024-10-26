@@ -1,0 +1,15 @@
+studentId,studentName,totalClasses,attendedClasses,percentage,dateUploaded
+S001,Student 1,23,21,91.3,10/19/2024
+S002,Student 2,25,22,88,10/19/2024
+S003,Student 3,22,16,72.73,10/19/2024
+S004,Student 4,26,15,57.69,10/19/2024
+S005,Student 5,28,24,85.71,10/19/2024
+S006,Student 6,28,24,85.71,10/19/2024
+S007,Student 7,28,24,85.71,10/19/2024
+S008,Student 8,28,24,85.71,10/19/2024
+S009,Student 9,28,24,85.71,10/19/2024
+S010,Student 10,28,24,85.71,10/19/2024
+S011,Student 11,28,24,85.71,10/19/2024
+S012,Student 12,28,24,85.71,10/19/2024
+S013,Student 13,28,24,85.71,10/19/2024
+,,,,,
